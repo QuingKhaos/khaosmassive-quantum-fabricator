@@ -1,12 +1,19 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "khaosmassive-quantum-fabricator",
+  "title": "Massive Planets and More - Quantum Fabricator",
+  "description": "Adds Quantum Fabricator support for Massive Planets and More.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
-  ]
+    "base >= 2.0.77",
+
+    "cf-lib >= 1.6.0",
+    "khaoslib >= 1.2.1",
+
+    "quantum-fabricator >= 2.12.2",
+    "quantum-fabricator-tweaks >= 1.0.0"
+  ],
+  "space_travel_required": true
 }
