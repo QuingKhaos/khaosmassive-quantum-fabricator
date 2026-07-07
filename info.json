@@ -10,10 +10,16 @@
     "base >= 2.0.77",
 
     "cf-lib >= 1.6.0",
-    "khaoslib >= 1.2.1",
+    "khaoslib >= 1.3.0",
 
     "quantum-fabricator >= 2.12.2",
     "quantum-fabricator-tweaks >= 1.0.0"
   ],
-  "space_travel_required": true
+  "space_travel_required": true,
+  "package": {
+    "ignore": [
+      "**/*.gimp",
+      "**/*.xcf"
+    ]
+  }
 }

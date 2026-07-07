@@ -3,3 +3,4 @@ Version: 1.0.0
 Date: 2026-07-07
   Features:
     - Make the digitizing chest available from the start on Lignumis.
+    - Recolor digitizing chest to match the Lignumis theme.

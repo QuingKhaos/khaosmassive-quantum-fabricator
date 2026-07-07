@@ -1,0 +1,11 @@
+# GIMP 'Colorize' settings
+
+(time 0)
+(gimp-mode normal)
+(hue 0.059259232133626938)
+(saturation 0.32846713066101074)
+(lightness -0.46274501085281372)
+(color
+    (color "R'G'B'A u8" 4 "\133\76\56\377" 0))
+
+# end of 'Colorize' settings
